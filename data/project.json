@@ -1,21 +1,48 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "absempere",
+    "title": "Production test",
+    "description": "Testing prod deploy",
+    "language": "en",
+    "slug": "production-test",
+    "creator": "absempere",
+    "authors": "Anindita",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Speaker",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Reactions",
+          "color": "#ADFEFF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Elizabeth Bishop",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Audience laughter",
+          "category": "Reactions"
+        },
+        {
+          "tag": "Bishop laughter",
+          "category": "Reactions"
+        }
+      ]
+    },
+    "created_at": "2024-10-09T12:56:43.446Z",
+    "updated_at": "2024-10-09T12:56:43.446Z"
   }
 }
